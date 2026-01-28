@@ -18,9 +18,11 @@ test용 Spectrogram 이미지 파일.
 **Data** : 
 <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-0049AB"/>
+<img src="https://img.shields.io/badge/Seaborn-008CD7"/>
 
 **AI** : 
-<img src="https://img.shields.io/badge/TensorFlown-FF6F00?logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
 
 **Others** : 
 <img src="https://img.shields.io/badge/Librosa-FFE033"/>
