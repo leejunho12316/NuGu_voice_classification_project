@@ -29,6 +29,6 @@ test용 Spectrogram 이미지 파일.
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/>
 
 ## 📷 Screenshot
-![screenshot1]([https://github.com/axhtl/BookRecommandations/blob/main/image.png](https://github.com/leejunho12316/NuGu_voice_classification_project/blob/main/result/Female/SINGER_02_UNDER10_NORMAL_FEMALE_CHILDREN_C0042.png))
-![screenshot2]([https://github.com/axhtl/BookRecommandations/blob/main/image2.png](https://github.com/leejunho12316/NuGu_voice_classification_project/blob/main/result/Female/SINGER_40_10TO29_HUSKY_FEMALE_BALLAD_C1688.png))
-![screenshot2]([https://github.com/axhtl/BookRecommandations/blob/main/image3.png](https://github.com/leejunho12316/NuGu_voice_classification_project/blob/main/result/Female/SINGER_65_30TO49_NORMAL_FEMALE_DANCE_C2819.png))
+![screenshot1]([https://github.com/leejunho12316/NuGu_voice_classification_project/blob/main/result/Female/SINGER_02_UNDER10_NORMAL_FEMALE_CHILDREN_C0042.png])
+![screenshot2]([https://github.com/leejunho12316/NuGu_voice_classification_project/blob/main/result/Female/SINGER_40_10TO29_HUSKY_FEMALE_BALLAD_C1688.png])
+![screenshot2]([https://github.com/leejunho12316/NuGu_voice_classification_project/blob/main/result/Female/SINGER_65_30TO49_NORMAL_FEMALE_DANCE_C2819.png])
